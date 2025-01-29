@@ -1,6 +1,6 @@
 <h1 align="center">Hello, there👋</h1>
 
-<p>My name is Isabela and I am a Front-End Javascript Developer from Belo-Horizonte. I also am a student of cybersecurity and ethical hacking what gives me a better understanding of how to create secure websites.</p>
+<p>My name is Isabela and I am a Front-End Javascript Developer from Belo-Horizonte. I also am a student of cybersecurity and ethical hacking which gives me a better understanding of how to create secure websites.</p>
 
 <h2>Here's some of the tools I like to use</h2>
 
@@ -8,7 +8,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="20" height="20"/>
   </a>
-  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; ">
+  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block;">
     HTML
   </span>
 
@@ -38,5 +38,33 @@
   </a>
   <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
     Node.js
+  </span>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="20" height="20"/>
+  </a>
+  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
+    MySQL
+  </span>
+
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
+  </a>
+  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
+    Python
+  </span>
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="20" height="20"/>
+  </a>
+  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
+    React
+  </span>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="20" height="20"/>
+  </a>
+  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
+    PHP
   </span>
 </p>
