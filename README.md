@@ -1,6 +1,6 @@
-<h1 align="center">Hello, there👋</h1>
+<h1 align="center">Hello, there.</h1>
 
-<p>My name is Isabela and I am a Front-End Javascript Developer from Belo-Horizonte. I also am a student of cybersecurity and ethical hacking which gives me a better understanding of how to create secure websites.</p>
+<p>My name is Isabela and I am a Front-End Javascript Developer. I also am a student of cybersecurity and ethical hacking which gives me a better understanding of how to create secure websites.</p>
 
 <h2>Here's some of the tools I like to use</h2>
 
@@ -31,13 +31,6 @@
   </a>
   <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
     Linux
-  </span>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="20" height="20"/>
-  </a>
-  <span style="background-color: #ddd; padding: 2px 5px; border-radius: 4px; display: inline-block; margin-right: 5px;">
-    Node.js
   </span>
 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
