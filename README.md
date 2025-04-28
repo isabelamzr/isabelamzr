@@ -150,11 +150,4 @@ Every day is an opportunity to grow.
 
 <p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelamzr&theme=tokyonight&layout=compact&custom_title=Git Stats&langs_count=9" 
-  />
-
 </p>
